@@ -1,5 +1,5 @@
 ---
-title: "Coming Soon"
+title: "WIP"
 date: 2019-10-16T13:03:55+02:00
 categories:
 - category
@@ -13,8 +13,7 @@ keywords:
 ---
 
 <!--more-->
-Show some content here...
 
-# Hello there,,
+# Hello there...
 
 ### THis is the start of a blog
